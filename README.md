@@ -61,7 +61,10 @@ You can configure parameters like:
 - Batch size (default: 16)
 
 ## 🖼️ Sample Visualization
-
+![alt text](imgs/image.png)
+![alt text](imgs/image1.png)
+![alt text](imgs/image2.png)
+![alt text](imgs/image3.png)
 ## 📌 References
 Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
